@@ -1,0 +1,58 @@
+.movie-poster {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #fff;
+  margin: 20px auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.7);
+  overflow: hidden;
+}
+
+.movie-poster {
+  position: relative;
+  width: 600px;
+  height: 400px;
+  color: #fff;
+  margin: 20px auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.7);
+  overflow: hidden;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.movie-title {
+  font-size: 3.5em;
+  text-transform: uppercase;
+  color: #ffd700;
+  margin-bottom: 0.5em;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+}
+
+.movie-detail {
+  font-size: 1.1em;
+  margin: 0.3em 0;
+  text-align: center;
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.7);
+}
+
+.movie-detail strong {
+  color: #ffd700;
+}

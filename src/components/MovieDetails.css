@@ -1,0 +1,45 @@
+.movie-details {
+  width: 600px;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.movie-details input {
+  display: block;
+  margin: 10px 0;
+  padding: 10px;
+  width: 80%;
+}
+
+.movie-details button {
+  margin-right: 10px;
+}
+
+.input-field {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.input-field label {
+  width: 30%;
+  margin-right: 10px;
+}
+
+.input-field input {
+  width: 70%;
+  flex: 1;
+}
+
+.button-group {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.button-group button {
+  margin-right: 10px;
+}
