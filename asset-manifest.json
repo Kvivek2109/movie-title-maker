@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/movie-title-maker/static/css/main.34b75676.css",
+    "main.js": "/movie-title-maker/static/js/main.7dc72616.js",
+    "static/js/581.e5f522da.chunk.js": "/movie-title-maker/static/js/581.e5f522da.chunk.js",
+    "static/js/453.16f7ba4f.chunk.js": "/movie-title-maker/static/js/453.16f7ba4f.chunk.js",
+    "index.html": "/movie-title-maker/index.html",
+    "main.34b75676.css.map": "/movie-title-maker/static/css/main.34b75676.css.map",
+    "main.7dc72616.js.map": "/movie-title-maker/static/js/main.7dc72616.js.map",
+    "581.e5f522da.chunk.js.map": "/movie-title-maker/static/js/581.e5f522da.chunk.js.map",
+    "453.16f7ba4f.chunk.js.map": "/movie-title-maker/static/js/453.16f7ba4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34b75676.css",
+    "static/js/main.7dc72616.js"
+  ]
+}
